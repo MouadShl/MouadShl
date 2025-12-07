@@ -1,100 +1,60 @@
 # HI, I'm Mouad Souhal
 
-## Data Science Engineering Student
+## 🎓 Current Status
+Final Year Computer Engineering Student specializing in Data Science with strong skills in Python, SQL, web development, and data analysis. Actively seeking PFE internship opportunities to apply my knowledge in AI, Machine Learning, and automation projects.
 
-### Current Status
-- Final Year Computer Engineering Student specializing in Data Science
-- Strong skills in Python, SQL, web development and data analysis
-- Motivated to apply my knowledge in AI, Machine Learning and automation projects
-- Actively seeking 4-6 month PFE internship starting January 2026
+## 💼 Hiring Status
+- **Available for**: 4-6 month PFE internship starting January 2026
+- **Open to**: Full-time positions after graduation
+- **Target Roles**: Data Analyst, Data Scientist, Machine Learning Engineer, AI Developer, Full-Stack Developer
+- **Contact**: msouhal.dev@gmail.com | +212-628562703 | Temara, Morocco
 
-### Hiring Status
-- Available for PFE internship starting January 2026
-- Open to full-time positions after graduation
-- Target Position: Data Analyst, Data Scientist, Machine Learning Engineer, AI Developer, Full-Stack Developer
-- Direct contact: msouhal.dev@gmail.com | mouadatlas5@gmail.com
-- Phone: +212-628562703
-- Location: Temara, Morocco
+## 🚀 Featured Projects
 
----
+### **Intelligent Portfolio (IoT & Embedded Systems)**
+Smart portfolio system with QR code authentication, GPS tracking, and GSM alerts using STM32, SIM800L, and web interface.
 
-### Featured Projects
+### **Web Platform for Musicians**
+Full-stack platform for audio upload, profile management, and song organization with responsive design.
 
-#### **Intelligent Portfolio (IoT & Embedded Systems)**
-- **Technologies**: C, C++, HTML, CSS, PHP, STM32, SIM800L, GPS NEO-6M
-- Intelligent system with QR code, GPS location and GSM alerts
-- Web interface to manage owner information
-- Embedded communication, backend-frontend and data processing
+### **Sales Predictive Analysis**
+Data science project with data cleaning, regression modeling, and visualization using Python, Pandas, and Scikit-learn.
 
-#### **Web Platform for Musicians (Full-Stack)**
-- **Technologies**: HTML, CSS, JavaScript, PHP, MySQL
-- Audio upload system, profile management and dynamic interface
-- Song organization and responsive navigation
+### **CSV Automation Script**
+Python script for automatic data extraction, filtering, and exportation with error handling.
 
-#### **Data Science Project - Sales Predictive Analysis (In Progress)**
-- Data preparation and cleaning (Pandas, NumPy)
-- Simple regression model (Scikit-learn)
+## 💻 Technical Stack
 
-#### **Python Script - CSV Automation**
-- Automatic data extraction, filtering and exportation
+### **Data Science & AI**
+| **PYTHON** | **MATLAB** | **MACHINE LEARNING** | **DEEP LEARNING** | **AI** |
+|------------|------------|----------------------|-------------------|--------|
+| **SIGNAL PROCESSING** | **IMAGE PROCESSING** | **STREAMLIT** | | |
 
----
+### **AI Prompt Engineering**
+**PROMPT ENGINEERING**
+- **CHATGPT**
+- **DEEPSEEK**
 
-### Technical Stack
+### **Data Analysis & Business Intelligence**
+| **SQL** | **MYSQL** | **PL/SQL** | **ORACLE DATABASE** | **TABLEAU** | **POWER BI** | **EXCEL** | **HADOOP** |
+|---------|-----------|------------|---------------------|-------------|--------------|-----------|------------|
 
-#### **Data Science & AI**
-**PYTHON** **PANDAS** **NUMPY** **SCIKIT-LEARN** **JUPYTER** **MATPLOTLIB** **HADOOP**
+### **Programming & Development**
+| **JAVA** | **JEE** | **C** | **C++** | **PYTHON** | **PHP** | **JAVASCRIPT** | **HTML5** |
+|----------|---------|-------|---------|------------|---------|----------------|-----------|
 
-#### **Web Development & Programming**
-**HTML** **CSS** **JAVASCRIPT** **PHP** **LARAVEL** **REACT.JS** **NODE.JS** **JAVA** **C** **C++**
+### **Web Frameworks**
+- **LARAVEL** | **REACT.JS** | **NODE.JS**
 
-#### **Databases & Data Management**
-**SQL** **MYSQL** **MONGODB** **SQLITE** **EXCEL** **POWER BI**
+### **DevOps & Infrastructure**
+| **DOCKER** | **LINUX** | **UBUNTU** | **RED HAT** | **WINDOWS ADMIN** | **WEB SCRAPING** |
+|------------|-----------|------------|-------------|-------------------|------------------|
 
-#### **Tools & Platforms**
-**GITHUB** **VS CODE** **DOCKER** **AWS** **STM32** **GPS/GSM MODULES**
+### **Office & Documentation**
+| **WORD** | **EXCEL** | **POWERPOINT** |
+|----------|-----------|----------------|
 
----
-
-### Professional Experience
-
-#### **Intern - COPE | Rabat** *(Jun 2023 - Jul 2023)*
-- Developed a grade management website for the institution
-- Designed Back-end architecture with Laravel and MySQL database
-- Implemented Front-end with JavaScript and integrated forms and interfaces
-- Conducted testing, bug fixes and performance improvements
-- Collaborated with the team to deliver a functional and maintainable solution
-
-#### **Intern - CNER | Rabat** *(Mar 2022 - Apr 2022)*
-- Complete creation of the official CNER website (front-end and back-end)
-- Development with HTML, CSS, JavaScript, JQuery
-- API integration for dynamic data loading
-- Responsive design for PC/mobile compatibility
-- Site deployment and technical support for production
-
----
-
-### Education
-- **SUPMTI** - Computer Engineering, Data Science *(Sep 2023 - Present)*
-- **ISTA HAY RIAD, Rabat** - Advanced Technician Diploma in Full-Stack Development *(Sep 2020 - Jul 2023)*
-- **LYCÉE RIAD EL ANJAL** - Baccalaureate in Physics *(Sep 2019 - Jul 2020)*
-
----
-
-### Languages
-- **Arabic**: Native
-- **English**: Advanced
-- **French**: Intermediate
-
----
-
-### Certifications
-- Microsoft Excel Certified
-- Microsoft Word Certified
-
----
-
-### Professional Skills
+## 🌟 Professional Skills
 - Problem Solving & Analytical Thinking
 - Team Collaboration & Communication
 - Project Management & Documentation
@@ -104,18 +64,29 @@
 - Full-Stack Development
 - Embedded Systems Programming
 - Data Analysis & Visualization
+- Prompt Engineering
 
----
+## 🌟 Currently Working On
+- Enhancing my Data Science portfolio with real-world projects
+- Building IoT projects with STM32 microcontrollers
+- Learning advanced Machine Learning algorithms
+- Developing full-stack web applications
+- Preparing for PFE internship applications
 
-## 📞 Contact Information
+## 🤝 Looking to Collaborate On
+- Data Science and Machine Learning projects
+- IoT and Embedded Systems development
+- Web application development
+- Open-source contributions in Python or JavaScript
+- Research projects in AI/ML
+
+## 📫 Connect With Me
 - **Email**: msouhal.dev@gmail.com
-- **Alternate Email**: mouadatlas5@gmail.com
 - **Phone**: +212-628562703
-- **Location**: Temara, Morocco
 - **GitHub**: https://github.com/MouadShi
-- **LinkedIn**: www.linkedin.com/in/mouad-souhal
-
+- **Location**: Temara, Morocco
+- **Languages**: Arabic (Native), English (Advanced), French (Intermediate)
 
 ---
 
-⭐ **Open to collaborations, internship opportunities, and data science projects!**
+⭐ **Feel free to explore my repositories and reach out for collaboration opportunities!**
