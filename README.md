@@ -3,11 +3,17 @@
 
 ---
 
-### 🚀 Current Status  
-- Computer Science Engineering Student specializing in Data Science  
-- Data Science, Web Development, DevOps  
-- Bachelor’s degree 2026  
-- Currently seeking an internship in Data Science, ML, AI, or Backend Development  
+## 📌 Current Status
+- Data Science Engineering Student focused on AI, ML, and intelligent systems  
+- Seeking a PFE internship in Data Science, Machine Learning, or AI Engineering  
+
+---
+
+## 🧳 Hiring Status
+- 🟩 Available for PFE internship  
+- 🟩 Open to full-time roles after graduation  
+- 🎯 Target positions: Data Analyst, Data Scientist, Machine Learning Engineer, AI Engineer  
+- 📊 All data-related roles considered  
 
 ---
 
@@ -112,12 +118,20 @@
 
 ### 🤝 Looking to Collaborate On  
 - Data science and ML projects  
-- Modern web apps  
+- Modern web apps
 - AI tools and dashboards  
 
 ---
 
-### 📫 Connect With Me  
-- Email: **mouadsouhal@gmail.com**  
-- LinkedIn: **linkedin.com/in/mouadsouhal**  
-- Location: Temara, Morocco  
+## 🔗 Connect With Me
+**Email:** msouhal.dev@gmail.com
+
+<p>
+  <a href="https://www.kaggle.com/souhalmouad" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/MouadShl" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
