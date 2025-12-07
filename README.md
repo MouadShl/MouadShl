@@ -1,92 +1,92 @@
-# HI, I'm Mouad Souhal
+# 🚀 Hi, I'm Mouad Souhal
 
-## 🎓 Current Status
-Final Year Computer Engineering Student specializing in Data Science with strong skills in Python, SQL, web development, and data analysis. Actively seeking PFE internship opportunities to apply my knowledge in AI, Machine Learning, and automation projects.
+## 📊 Data Science Engineering Student
 
-## 💼 Hiring Status
-- **Available for**: 4-6 month PFE internship starting January 2026
-- **Open to**: Full-time positions after graduation
-- **Target Roles**: Data Analyst, Data Scientist, Machine Learning Engineer, AI Developer, Full-Stack Developer
-- **Contact**: msouhal.dev@gmail.com | +212-628562703 | Temara, Morocco
+### 🎯 Current Status
+- **Computer Engineering Student** specializing in Data Science
+- **Skills**: Python, SQL, Web Development, Data Analysis
+- **Seeking**: 4-6 month PFE internship starting January 2026
 
-## 🚀 Featured Projects
-
-### **Intelligent Portfolio (IoT & Embedded Systems)**
-Smart portfolio system with QR code authentication, GPS tracking, and GSM alerts using STM32, SIM800L, and web interface.
-
-### **Web Platform for Musicians**
-Full-stack platform for audio upload, profile management, and song organization with responsive design.
-
-### **Sales Predictive Analysis**
-Data science project with data cleaning, regression modeling, and visualization using Python, Pandas, and Scikit-learn.
-
-### **CSV Automation Script**
-Python script for automatic data extraction, filtering, and exportation with error handling.
-
-## 💻 Technical Stack
-
-### **Data Science & AI**
-| **PYTHON** | **MATLAB** | **MACHINE LEARNING** | **DEEP LEARNING** | **AI** |
-|------------|------------|----------------------|-------------------|--------|
-| **SIGNAL PROCESSING** | **IMAGE PROCESSING** | **STREAMLIT** | | |
-
-### **AI Prompt Engineering**
-**PROMPT ENGINEERING**
-- **CHATGPT**
-- **DEEPSEEK**
-
-### **Data Analysis & Business Intelligence**
-| **SQL** | **MYSQL** | **PL/SQL** | **ORACLE DATABASE** | **TABLEAU** | **POWER BI** | **EXCEL** | **HADOOP** |
-|---------|-----------|------------|---------------------|-------------|--------------|-----------|------------|
-
-### **Programming & Development**
-| **JAVA** | **JEE** | **C** | **C++** | **PYTHON** | **PHP** | **JAVASCRIPT** | **HTML5** |
-|----------|---------|-------|---------|------------|---------|----------------|-----------|
-
-### **Web Frameworks**
-- **LARAVEL** | **REACT.JS** | **NODE.JS**
-
-### **DevOps & Infrastructure**
-| **DOCKER** | **LINUX** | **UBUNTU** | **RED HAT** | **WINDOWS ADMIN** | **WEB SCRAPING** |
-|------------|-----------|------------|-------------|-------------------|------------------|
-
-### **Office & Documentation**
-| **WORD** | **EXCEL** | **POWERPOINT** |
-|----------|-----------|----------------|
-
-## 🌟 Professional Skills
-- Problem Solving & Analytical Thinking
-- Team Collaboration & Communication
-- Project Management & Documentation
-- Continuous Learning & Adaptability
-- Critical & Creative Thinking
-- Time Management & Organization
-- Full-Stack Development
-- Embedded Systems Programming
-- Data Analysis & Visualization
-- Prompt Engineering
-
-## 🌟 Currently Working On
-- Enhancing my Data Science portfolio with real-world projects
-- Building IoT projects with STM32 microcontrollers
-- Learning advanced Machine Learning algorithms
-- Developing full-stack web applications
-- Preparing for PFE internship applications
-
-## 🤝 Looking to Collaborate On
-- Data Science and Machine Learning projects
-- IoT and Embedded Systems development
-- Web application development
-- Open-source contributions in Python or JavaScript
-- Research projects in AI/ML
-
-## 📫 Connect With Me
-- **Email**: msouhal.dev@gmail.com
-- **Phone**: +212-628562703
-- **GitHub**: https://github.com/MouadShi
-- **Location**: Temara, Morocco
-- **Languages**: Arabic (Native), English (Advanced), French (Intermediate)
+### 💼 Hiring Status
+- **Available**: PFE Internship (Jan 2026) | Full-time after graduation
+- **Target Roles**: Data Analyst | Data Scientist | ML Engineer | Full-Stack Developer
+- **📍 Location**: Temara, Morocco
+- **📧 Contact**: msouhal.dev@gmail.com
 
 ---
 
-⭐ **Feel free to explore my repositories and reach out for collaboration opportunities!**
+### 🚀 Featured Projects
+
+#### **🧠 Intelligent Portfolio (IoT)**
+- **Tech**: STM32, C++, PHP, GPS, GSM
+- Smart system with QR authentication & location tracking
+
+#### **🎵 Music Platform**
+- **Tech**: HTML, CSS, JavaScript, PHP, MySQL
+- Full-stack platform for audio upload & management
+
+#### **📈 Sales Predictive Analysis**
+- **Tech**: Python, Pandas, Scikit-learn, Matplotlib
+- Data cleaning & regression modeling
+
+---
+
+### 💻 Technical Stack
+
+#### **🧠 Data Science & AI**
+| Python | MATLAB | Machine Learning | Deep Learning |
+|--------|--------|------------------|---------------|
+| Signal Processing | Image Processing | Streamlit | |
+
+#### **🤖 AI Prompt Engineering**
+**ChatGPT** • **DeepSeek** • **Prompt Engineering**
+
+#### **📊 Data Analysis & BI**
+**SQL** • **MySQL** • **Power BI** • **Tableau** • **Excel** • **Hadoop**
+
+#### **👨‍💻 Programming & Development**
+**Java** • **C** • **C++** • **JavaScript** • **PHP** • **HTML5** • **Laravel** • **React.js**
+
+#### **🛠️ DevOps & Infrastructure**
+**Docker** • **Linux** • **Ubuntu** • **Web Scraping**
+
+#### **📄 Office & Documentation**
+**Word** • **Excel** • **PowerPoint**
+
+---
+
+### 🌟 Professional Skills
+- ✅ Problem Solving & Analytical Thinking
+- ✅ Team Collaboration & Communication  
+- ✅ Project Management & Documentation
+- ✅ Continuous Learning & Adaptability
+- ✅ Full-Stack Development
+- ✅ Data Analysis & Visualization
+
+---
+
+### 🔄 Currently Working On
+- Building Data Science portfolio projects
+- Enhancing ML algorithms knowledge
+- IoT development with STM32
+- Web application development
+
+---
+
+### 🤝 Looking to Collaborate On
+- Data Science / ML projects
+- IoT & Embedded Systems
+- Web development
+- Open-source contributions
+
+---
+
+### 📫 Connect With Me
+- **📧 Email**: msouhal.dev@gmail.com
+- **📱 Phone**: +212 628 562 703
+- **💼 GitHub**: https://github.com/MouadShi
+- **📍 Location**: Temara, Morocco
+
+---
+
+⭐ **Open to internship opportunities and collaborations!**
