@@ -4,27 +4,32 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+business+intelligence.;Building+ML+pipelines+that+work+in+production.;NLP+%7C+Deep+Learning+%7C+Data+Engineering+%7C+BI;The+data+professional+your+team+is+looking+for.;Ziwig+Morocco+-+Data+Science+Intern.)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Turning+raw+data+into+business+intelligence.;Building+ML+pipelines+that+work+in+production.;NLP+%7C+Deep+Learning+%7C+Data+Engineering+%7C+BI;The+data+professional+your+team+is+looking+for." alt="Typing SVG" />
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mouadatlas5@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MouadShl)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mouad-souhal)
-&nbsp;
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/souhalmouad)
-&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=MouadShl&color=A78BFA&style=flat-square&label=Profile+Views)
+<p align="center">
+  <a href="mailto:mouadatlas5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mouadatlas5%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/mouad-souhal">
+    <img src="https://img.shields.io/badge/LinkedIn-Mouad%20Souhal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/MouadShl">
+    <img src="https://img.shields.io/badge/GitHub-MouadShl-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/souhalmouad">
+    <img src="https://img.shields.io/badge/Kaggle-souhalmouad-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=MouadShl&style=for-the-badge&color=A78BFA" alt="Profile views"/>
 
 </div>
 
-<br/>
-
 ---
 
-## 🧠 Who I Am
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Compass.png" width="28" /> Who I Am
 
 ```python
 class MouadSouhal:
@@ -61,186 +66,113 @@ class MouadSouhal:
     mindset         = "Data is everywhere. Intelligence is built deliberately."
 ```
 
-<br/>
-
 <div align="center">
 
-> *"I am not just learning tools.*
-> *I am learning how to think with data, build with AI, and communicate results clearly."*
+### I am not just learning tools.
+### I am learning how to think with data, build with AI, and communicate results clearly.
 
 </div>
-
-<br/>
 
 ---
 
-## 🎯 Professional Direction
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" width="28" /> Professional Direction
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>📊 Data Analytics</h3>
+      <p>Cleaning data, extracting insights, building dashboards, and translating numbers into decisions that drive real business value.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🤖 Machine Learning</h3>
+      <p>Designing and evaluating predictive models, optimizing performance, and building reliable data-driven workflows end to end.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🧠 AI Applications</h3>
+      <p>Leveraging NLP, computer vision, and intelligent systems to build tools that solve concrete, real-world problems.</p>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
-| 📊 Data Analytics | 🤖 Machine Learning | 🧠 AI Applications |
-|:---:|:---:|:---:|
-| Cleaning data, extracting insights, building dashboards, and translating numbers into decisions that drive real business value. | Designing and evaluating predictive models, optimizing performance, and building reliable data-driven workflows end to end. | Leveraging NLP, computer vision, and intelligent systems to build tools that solve concrete, real-world problems. |
-
-<br/>
-
-*Open to all data roles - Data Scientist - Data Analyst - ML Engineer - AI Engineer - MLOps*
+Open to all data roles - **Data Scientist** - **Data Analyst** - **ML Engineer** - **AI Engineer** - **MLOps**
 
 </div>
-
-<br/>
 
 ---
 
-## 🛠️ Tech Stack
-
-<br/>
-
-### 〔 I 〕 Data Languages - The languages I think in
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="28" /> Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white)
+### Languages & Data
 
-</div>
+<img src="https://skillicons.dev/icons?i=python,r,matlab,java,c,js,php" />
 
-<br/>
+<br/><br/>
 
-**Scientific Computing :**
-
-<div align="center">
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</div>
-
-<br/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
 ---
 
-### 〔 II 〕 AI & Intelligence Stack - Where patterns become predictions
+### AI, Machine Learning & NLP
 
-<br/>
+<img src="https://img.shields.io/badge/Machine%20Learning-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Model%20Explainability-14B8A6?style=for-the-badge"/>
 
-**Frameworks and libraries :**
+<br/><br/>
 
-<div align="center">
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-6366F1?style=for-the-badge&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-</div>
-
-<br/>
-
-**Domains of expertise :**
-
-<div align="center">
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6366F1?style=for-the-badge&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8B5CF6?style=for-the-badge&logoColor=white)
-![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-A855F7?style=for-the-badge&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-EC4899?style=for-the-badge&logoColor=white)
-![Model Explainability](https://img.shields.io/badge/Model%20Explainability-14B8A6?style=for-the-badge&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-F59E0B?style=for-the-badge&logoColor=white)
-
-</div>
-
-<br/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/SHAP-6366F1?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
+<img src="https://img.shields.io/badge/BERTopic-A855F7?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
 ---
 
-### 〔 III 〕 Data Infrastructure and BI - Systems that store, process, and surface data
+### Data Engineering & Infrastructure
 
-<br/>
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
+<img src="https://img.shields.io/badge/ETL%20Pipelines-22C55E?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web%20Scraping-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-**Databases :**
+<br/><br/>
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,linux,git,github,vscode" />
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+<br/><br/>
 
-</div>
-
-<br/>
-
-**Data Engineering :**
-
-<div align="center">
-
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![ETL](https://img.shields.io/badge/ETL%20Pipelines-22C55E?style=for-the-badge&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
-
-<br/>
-
-**Business Intelligence :**
-
-<div align="center">
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-</div>
-
-<br/>
-
-**Tools & DevOps :**
-
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
-<br/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+<img src="https://img.shields.io/badge/Star%20Schema-336791?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
 ---
 
-## 🔨 What I Deliver
+### Business Intelligence
 
-<div align="center">
-
-| Deliverable | Description |
-|:---:|:---|
-| 🔄 **End-to-end ML pipelines** | From raw data collection to deployed, monitored models |
-| 🗄️ **Data warehouses** | Star-schema design, T-SQL, dimensional modeling |
-| 📊 **BI Dashboards** | Power BI dashboards with business storytelling |
-| 🤖 **NLP systems** | Sentiment analysis, topic modeling, entity extraction |
-| 🧹 **Clean data pipelines** | Scraping, normalization, deduplication, validation |
-| 📄 **Technical documentation** | Architecture diagrams, runbooks, data dictionaries |
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
 </div>
-
-<br/>
 
 ---
 
@@ -250,80 +182,85 @@ class MouadSouhal:
 
 ### 🇲🇦 Credit Card Default Risk Prediction - Moroccan Banking Portfolio
 
-[![Repo](https://img.shields.io/badge/GitHub-credit--risk--morocco-181717?style=for-the-badge&logo=github)](https://github.com/MouadShl/credit-risk-morocco)
-[![Live](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://credit-risk-morocco-lb5g69tibchzjlhx3qppqv.streamlit.app)
+<a href="https://github.com/MouadShl/credit-risk-morocco">
+  <img src="https://img.shields.io/badge/GitHub-credit--risk--morocco-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://credit-risk-morocco-lb5g69tibchzjlhx3qppqv.streamlit.app">
+  <img src="https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</a>
 
-> End-to-end ML pipeline - 30,000 customers - 7 models compared - XGBoost tuned - SHAP explainability - Streamlit dashboard deployed
+> End-to-end ML pipeline - 30,000 customers - 7 models compared - XGBoost tuned - SHAP explainability - Streamlit dashboard deployed in production
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-6366F1?style=flat-square&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/SHAP-6366F1?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 
-<br/>
+<br/><br/>
 
 ### 🔬 Data Intelligence Pipeline - Ziwig Morocco (PFE)
 
-[![Repo](https://img.shields.io/badge/GitHub-Ziwig--internship-181717?style=for-the-badge&logo=github)](https://github.com/MouadShl/Ziwig-internship)
+<a href="https://github.com/MouadShl/Ziwig-internship">
+  <img src="https://img.shields.io/badge/GitHub-Ziwig--internship-181717?style=for-the-badge&logo=github"/>
+</a>
 
 > Full NLP pipeline on 301,707 patient messages - CamemBERT + RoBERTa sentiment analysis - BERTopic topic modeling - SQL Server Data Warehouse - 2 Power BI dashboards delivered to client
 
-![CamemBERT](https://img.shields.io/badge/CamemBERT-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![BERTopic](https://img.shields.io/badge/BERTopic-A855F7?style=flat-square&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+<img src="https://img.shields.io/badge/CamemBERT-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/RoBERTa-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/BERTopic-A855F7?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white"/>
 
 </div>
 
-<br/>
-
 ---
 
-## 📊 GitHub Activity
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> GitHub Activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MouadShl&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=A78BFA&icon_color=A78BFA&cache_seconds=1800" alt="Mouad's GitHub Stats"/>
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouadShl&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=A78BFA&cache_seconds=1800" alt="Top Languages"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MouadShl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=A78BFA&icon_color=A78BFA" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MouadShl&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=A78BFA" width="48%" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=MouadShl&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MouadShl&theme=tokyo-night&hide_border=true&color=A78BFA&line=A78BFA&point=ffffff&area=true&area_color=A78BFA" width="100%" alt="Contribution Graph"/>
-
-<br/><br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MouadShl&theme=tokyonight&no-frame=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MouadShl&theme=react-dark&hide_border=true&area=true&color=A78BFA&line=A78BFA&point=ffffff" width="95%" />
 
 </div>
 
-<br/>
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="28" /> How I Think
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🔍 Analytical</h3>
+      <p>I break problems down systematically - questioning assumptions, decomposing complexity, and isolating the real signal behind the noise. Every dataset tells a story. My job is to find it.</p>
+    </td>
+    <td width="50%">
+      <h3>⚙️ Practical</h3>
+      <p>I build things that can actually be used, tested, explained, and improved - not just theoretically elegant inside a notebook. Usability and reliability matter as much as accuracy.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🧬 Curious</h3>
+      <p>Deeply interested in NLP, model behavior, robustness, and how intelligent systems genuinely support human decisions at scale. I read, explore, and experiment continuously.</p>
+    </td>
+    <td width="50%">
+      <h3>📈 Growth-Oriented</h3>
+      <p>Every project is a chance to improve - technically, in communication, in documentation quality, and in execution. I do not just deliver work. I elevate it.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 💡 How I Think
-
-<div align="center">
-
-| 🔍 **Analytical** | ⚙️ **Practical** |
-|:---|:---|
-| I break problems down systematically - questioning assumptions, decomposing complexity, and isolating the real signal behind the noise. Every dataset tells a story. My job is to find it. | I build things that can actually be used, tested, explained, and improved - not just theoretically elegant inside a notebook. Usability and reliability matter as much as accuracy. |
-| **🧬 Curious** | **📈 Growth-Oriented** |
-| Deeply interested in NLP, model behavior, robustness, and how intelligent systems genuinely support human decisions at scale. I read, explore, and experiment continuously. | Every project is a chance to improve - technically, in communication, in documentation quality, and in execution. I do not just deliver work. I elevate it. |
-
-</div>
-
-<br/>
-
----
-
-## 🎯 Current Focus
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> Current Focus
 
 ```yaml
 education:
@@ -356,11 +293,9 @@ open_to:
   - Research collaborations and technical partnerships
 ```
 
-<br/>
-
 ---
 
-## 🤝 Let's Build Something
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Handshake.png" width="28" /> Let's Build Something
 
 <div align="center">
 
@@ -369,15 +304,20 @@ open_to:
 
 <br/>
 
-[![Email](https://img.shields.io/badge/mouadatlas5%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mouadatlas5@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/github.com%2FMouadShl-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MouadShl)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Fmouad--souhal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mouad-souhal)
-&nbsp;
-[![Kaggle](https://img.shields.io/badge/kaggle%2Fsouhalmouad-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/souhalmouad)
+<a href="mailto:mouadatlas5@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/mouad-souhal">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/MouadShl">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.kaggle.com/souhalmouad">
+  <img src="https://img.shields.io/badge/Kaggle-My%20Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
 
-<br/>
+<br/><br/>
 
 **Available for - Data Scientist - Data Analyst - ML Engineer - AI Engineer - Research Collaborations**
 
