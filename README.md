@@ -291,7 +291,7 @@ class MouadSouhal:
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=MouadShl&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&cache_seconds=1800" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=MouadShl&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak"/>
 
 <br/><br/>
 
