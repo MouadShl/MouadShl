@@ -4,13 +4,15 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+business+intelligence.;Building+ML+pipelines+that+work+in+production.;NLP+%7C+Deep+Learning+%7C+Data+Engineering+%7C+BI;The+data+professional+your+team+is+looking+for.;Currently+%40+Ziwig+Morocco+as+Data+Science+Intern.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+business+intelligence.;Building+ML+pipelines+that+work+in+production.;NLP+%7C+Deep+Learning+%7C+Data+Engineering+%7C+BI;The+data+professional+your+team+is+looking+for.;Ziwig+Morocco+-+Data+Science+Intern.)](https://git.io/typing-svg)
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:msouhal.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mouadatlas5@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MouadShl)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mouad-souhal)
 &nbsp;
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/souhalmouad)
 &nbsp;
@@ -28,10 +30,10 @@
 class MouadSouhal:
 
     name            = "Mouad Souhal"
-    role            = "Data Science Engineering Student"
+    role            = "Data Science Engineering Graduate"
     location        = "Rabat, Morocco 🇲🇦"
-    education       = "Data Science Engineering @ Sup MTI Rabat"
-    current_status  = "Data Science Intern @ Ziwig Morocco — Rabat"
+    education       = "Data Science Engineering @ Sup MTI Rabat (2026)"
+    current_status  = "Open to Data Scientist / ML Engineer / Data Analyst roles"
 
     identity        = [
         "Data Scientist",
@@ -72,32 +74,6 @@ class MouadSouhal:
 
 ---
 
-## 📍 Currently At
-
-<div align="center">
-
-### 🏢 Ziwig Morocco — Rabat
-
-**Data Scientist · Data Engineer · Data Analyst**
-
-Working on a full end-to-end intelligence pipeline: web scraping, NLP sentiment analysis,
-topic modeling, data warehouse design, and Power BI dashboards.
-Transforming patient conversation data into actionable business insights.
-
-<br/>
-
-![Status](https://img.shields.io/badge/Status-Active%20Intern-22C55E?style=for-the-badge&logoColor=white)
-&nbsp;
-![Role](https://img.shields.io/badge/Role-Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Analyst-A78BFA?style=for-the-badge&logoColor=white)
-&nbsp;
-![Location](https://img.shields.io/badge/Location-Rabat%2C%20Morocco-3B82F6?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-</div>
-
-<br/>
-
----
-
 ## 🎯 Professional Direction
 
 <div align="center">
@@ -108,7 +84,7 @@ Transforming patient conversation data into actionable business insights.
 
 <br/>
 
-*Open to all data roles · Data Scientist · Data Analyst · ML Engineer · AI Engineer · MLOps*
+*Open to all data roles - Data Scientist - Data Analyst - ML Engineer - AI Engineer - MLOps*
 
 </div>
 
@@ -120,14 +96,14 @@ Transforming patient conversation data into actionable business insights.
 
 <br/>
 
-### 〔 I 〕 Data Languages — The languages I think in
+### 〔 I 〕 Data Languages - The languages I think in
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white)
 
 </div>
@@ -150,7 +126,7 @@ Transforming patient conversation data into actionable business insights.
 
 ---
 
-### 〔 II 〕 AI & Intelligence Stack — Where patterns become predictions
+### 〔 II 〕 AI & Intelligence Stack - Where patterns become predictions
 
 <br/>
 
@@ -159,11 +135,12 @@ Transforming patient conversation data into actionable business insights.
 <div align="center">
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-6366F1?style=for-the-badge&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </div>
@@ -178,7 +155,7 @@ Transforming patient conversation data into actionable business insights.
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8B5CF6?style=for-the-badge&logoColor=white)
 ![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-A855F7?style=for-the-badge&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-EC4899?style=for-the-badge&logoColor=white)
-![Model Robustness](https://img.shields.io/badge/Model%20Robustness-14B8A6?style=for-the-badge&logoColor=white)
+![Model Explainability](https://img.shields.io/badge/Model%20Explainability-14B8A6?style=for-the-badge&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-F59E0B?style=for-the-badge&logoColor=white)
 
 </div>
@@ -187,7 +164,7 @@ Transforming patient conversation data into actionable business insights.
 
 ---
 
-### 〔 III 〕 Data Infrastructure and BI — Systems that store, process, and surface data
+### 〔 III 〕 Data Infrastructure and BI - Systems that store, process, and surface data
 
 <br/>
 
@@ -198,23 +175,22 @@ Transforming patient conversation data into actionable business insights.
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 </div>
 
 <br/>
 
-**Infrastructure and DevOps :**
+**Data Engineering :**
 
 <div align="center">
 
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL%20Pipelines-22C55E?style=for-the-badge&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
@@ -225,46 +201,23 @@ Transforming patient conversation data into actionable business insights.
 <div align="center">
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 </div>
 
 <br/>
 
----
-
-### 〔 IV 〕 Engineering Backbone — For building data products and APIs
+**Tools & DevOps :**
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-</div>
-
-<br/>
-
----
-
-## 💡 How I Think
-
-<div align="center">
-
-| 🔍 **Analytical** | ⚙️ **Practical** |
-|:---|:---|
-| I break problems down systematically — questioning assumptions, decomposing complexity, and isolating the real signal behind the noise. Every dataset tells a story. My job is to find it. | I build things that can actually be used, tested, explained, and improved — not just theoretically elegant inside a notebook. Usability and reliability matter as much as accuracy. |
-| **🧬 Curious** | **📈 Growth-Oriented** |
-| Deeply interested in NLP, model behavior, robustness, and how intelligent systems genuinely support human decisions at scale. I read, explore, and experiment continuously. | Every project is a chance to improve — technically, in communication, in documentation quality, and in execution. I do not just deliver work. I elevate it. |
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -280,7 +233,7 @@ Transforming patient conversation data into actionable business insights.
 |:---:|:---|
 | 🔄 **End-to-end ML pipelines** | From raw data collection to deployed, monitored models |
 | 🗄️ **Data warehouses** | Star-schema design, T-SQL, dimensional modeling |
-| 📊 **BI Dashboards** | Power BI and Tableau dashboards with business storytelling |
+| 📊 **BI Dashboards** | Power BI dashboards with business storytelling |
 | 🤖 **NLP systems** | Sentiment analysis, topic modeling, entity extraction |
 | 🧹 **Clean data pipelines** | Scraping, normalization, deduplication, validation |
 | 📄 **Technical documentation** | Architecture diagrams, runbooks, data dictionaries |
@@ -291,29 +244,108 @@ Transforming patient conversation data into actionable business insights.
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🇲🇦 Credit Card Default Risk Prediction - Moroccan Banking Portfolio
+
+[![Repo](https://img.shields.io/badge/GitHub-credit--risk--morocco-181717?style=for-the-badge&logo=github)](https://github.com/MouadShl/credit-risk-morocco)
+[![Live](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://credit-risk-morocco-lb5g69tibchzjlhx3qppqv.streamlit.app)
+
+> End-to-end ML pipeline - 30,000 customers - 7 models compared - XGBoost tuned - SHAP explainability - Streamlit dashboard deployed
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-6366F1?style=flat-square&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+<br/>
+
+### 🔬 Data Intelligence Pipeline - Ziwig Morocco (PFE)
+
+[![Repo](https://img.shields.io/badge/GitHub-Ziwig--internship-181717?style=for-the-badge&logo=github)](https://github.com/MouadShl/Ziwig-internship)
+
+> Full NLP pipeline on 301,707 patient messages - CamemBERT + RoBERTa sentiment analysis - BERTopic topic modeling - SQL Server Data Warehouse - 2 Power BI dashboards delivered to client
+
+![CamemBERT](https://img.shields.io/badge/CamemBERT-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![BERTopic](https://img.shields.io/badge/BERTopic-A855F7?style=flat-square&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MouadShl&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=A78BFA&icon_color=A78BFA&cache_seconds=1800" alt="Mouad's GitHub Stats"/>
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouadShl&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=A78BFA&cache_seconds=1800" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=MouadShl&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&cache_seconds=1800" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MouadShl&theme=tokyo-night&hide_border=true&color=A78BFA&line=A78BFA&point=ffffff&area=true&area_color=A78BFA" width="100%" alt="Contribution Graph"/>
+
+<br/><br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MouadShl&theme=tokyonight&no-frame=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+---
+
+## 💡 How I Think
+
+<div align="center">
+
+| 🔍 **Analytical** | ⚙️ **Practical** |
+|:---|:---|
+| I break problems down systematically - questioning assumptions, decomposing complexity, and isolating the real signal behind the noise. Every dataset tells a story. My job is to find it. | I build things that can actually be used, tested, explained, and improved - not just theoretically elegant inside a notebook. Usability and reliability matter as much as accuracy. |
+| **🧬 Curious** | **📈 Growth-Oriented** |
+| Deeply interested in NLP, model behavior, robustness, and how intelligent systems genuinely support human decisions at scale. I read, explore, and experiment continuously. | Every project is a chance to improve - technically, in communication, in documentation quality, and in execution. I do not just deliver work. I elevate it. |
+
+</div>
+
+<br/>
+
+---
+
 ## 🎯 Current Focus
 
 ```yaml
-current_position:
-  company:   "Ziwig Morocco — Rabat"
-  role:      "Data Science Intern"
-  tasks:
-    - "Multi-source web scraping across 50+ association websites"
-    - "NLP sentiment analysis with CamemBERT, RoBERTa, XLM-RoBERTa"
-    - "Topic modeling pipeline using BERTopic, HDBSCAN, and UMAP"
-    - "Star-schema Data Warehouse design on SQL Server"
-    - "Patient Insights and Market dashboards on Power BI"
+education:
+  degree:    "Ingenieur Data Science & IA"
+  school:    "SUP MTI - Rabat, Morocco"
+  year:      "2026"
+
+completed:
+  - "End-to-end ML pipeline - Credit Risk Morocco (deployed on Streamlit)"
+  - "NLP intelligence pipeline - Ziwig Morocco PFE (301,707 messages processed)"
+  - "Real-time streaming pipeline - Kafka + PySpark + MongoDB"
 
 sharpening:
   - End-to-end ML pipelines and data engineering architecture
   - Multilingual NLP with Transformer-based models
   - Data Warehouse design and dimensional modeling
-  - Power BI advanced analytics — DAX, data storytelling
+  - Power BI advanced analytics - DAX, data storytelling
 
 exploring:
   - LLM fine-tuning and RAG (Retrieval-Augmented Generation)
-  - MLOps and pipeline orchestration — Airflow, Prefect
-  - Cloud data engineering — Azure, GCP
+  - MLOps and pipeline orchestration - Airflow, Prefect
+  - Cloud data engineering - Azure, GCP
   - Model explainability and robustness at scale
 
 open_to:
@@ -328,46 +360,26 @@ open_to:
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MouadShl&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=A78BFA&icon_color=A78BFA"/>
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouadShl&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=A78BFA"/>
-
-<br/><br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=MouadShl&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)](https://git.io/streak-stats)
-
-<br/><br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MouadShl&theme=tokyonight&no-frame=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
----
-
 ## 🤝 Let's Build Something
 
 <div align="center">
 
 > *"The best data work happens through collaboration.*
-> *If you are building something meaningful with data, AI, or ML — let us connect."*
+> *If you are building something meaningful with data, AI, or ML - let us connect."*
 
 <br/>
 
-[![Email](https://img.shields.io/badge/msouhal.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msouhal.dev@gmail.com)
+[![Email](https://img.shields.io/badge/mouadatlas5%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mouadatlas5@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/github.com%2FMouadShl-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MouadShl)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Fmouad--souhal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mouad-souhal)
 &nbsp;
 [![Kaggle](https://img.shields.io/badge/kaggle%2Fsouhalmouad-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/souhalmouad)
 
 <br/>
 
-**Available for · Data Scientist · Data Analyst · ML Engineer · AI Engineer · Research Collaborations**
+**Available for - Data Scientist - Data Analyst - ML Engineer - AI Engineer - Research Collaborations**
 
 <br/>
 
