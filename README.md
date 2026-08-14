@@ -222,8 +222,8 @@ Open to all data roles - **Data Scientist** - **Data Analyst** - **ML Engineer**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MouadShl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=A78BFA&icon_color=A78BFA" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouadShl&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=A78BFA" width="48%" />
+<img src="./profile/stats.svg" width="48%" />
+<img src="./profile/top-langs.svg" width="48%" />
 
 <br/><br/>
 
