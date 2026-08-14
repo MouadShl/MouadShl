@@ -29,7 +29,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Compass.png" width="28" /> Who I Am
+## 🧭 Who I Am
 
 ```python
 class MouadSouhal:
@@ -75,7 +75,7 @@ class MouadSouhal:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" width="28" /> Professional Direction
+## 🎯 Professional Direction
 
 <table>
   <tr>
@@ -102,7 +102,7 @@ Open to all data roles - **Data Scientist** - **Data Analyst** - **ML Engineer**
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="28" /> Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
 
@@ -218,22 +218,7 @@ Open to all data roles - **Data Scientist** - **Data Analyst** - **ML Engineer**
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> GitHub Activity
-
-<div align="center">
-
-<img src="./profile/stats.svg" width="48%" />
-<img src="./profile/top-langs.svg" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MouadShl&theme=react-dark&hide_border=true&area=true&color=A78BFA&line=A78BFA&point=ffffff" width="95%" />
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="28" /> How I Think
+## 🧠 How I Think
 
 <table>
   <tr>
@@ -260,42 +245,41 @@ Open to all data roles - **Data Scientist** - **Data Analyst** - **ML Engineer**
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> Current Focus
+## 🚀 Current Focus
 
 ```yaml
-education:
-  degree:    "Ingenieur Data Science & IA"
-  school:    "SUP MTI - Rabat, Morocco"
-  year:      "2026"
-
-completed:
-  - "End-to-end ML pipeline - Credit Risk Morocco (deployed on Streamlit)"
-  - "NLP intelligence pipeline - Ziwig Morocco PFE (301,707 messages processed)"
-  - "Real-time streaming pipeline - Kafka + PySpark + MongoDB"
-
-sharpening:
-  - End-to-end ML pipelines and data engineering architecture
-  - Multilingual NLP with Transformer-based models
-  - Data Warehouse design and dimensional modeling
-  - Power BI advanced analytics - DAX, data storytelling
-
-exploring:
-  - LLM fine-tuning and RAG (Retrieval-Augmented Generation)
-  - MLOps and pipeline orchestration - Airflow, Prefect
-  - Cloud data engineering - Azure, GCP
-  - Model explainability and robustness at scale
+currently:
+  - Actively applying for Data Scientist roles at Moroccan banks
+  - Polishing production-ready ML portfolio projects
+  - Deepening SHAP-based model explainability practices
+  - Refining end-to-end MLOps and deployment workflows
 
 open_to:
   - Data Scientist roles
-  - ML / AI Engineer positions
+  - ML Engineer positions
   - Data Analyst opportunities
-  - MLOps and data engineering roles
-  - Research collaborations and technical partnerships
+  - Data Engineering roles
+  - Research and technical collaborations
 ```
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Handshake.png" width="28" /> Let's Build Something
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="./profile/stats.svg" width="48%" />
+<img src="./profile/top-langs.svg" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MouadShl&theme=react-dark&hide_border=true&area=true&color=A78BFA&line=A78BFA&point=ffffff" width="95%" />
+
+</div>
+
+---
+
+## 🤝 Let's Build Something
 
 <div align="center">
 
