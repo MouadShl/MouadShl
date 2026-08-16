@@ -14,20 +14,22 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate stats card
-        uses: soulteary/github-readme-stats-action@v1.0.0
+        uses: stats-organization/github-readme-stats-action@v1
         with:
           card: stats
-          options: 'username=MouadShl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=A78BFA&icon_color=A78BFA'
+          options: 'username=MouadShl&show_icons=true'
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
 
       - name: Generate top languages card
-        uses: soulteary/github-readme-stats-action@v1.0.0
+        uses: stats-organization/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: 'username=MouadShl&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=A78BFA'
+          options: 'username=MouadShl&layout=compact&langs_count=8'
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
 
       - name: Commit and push if changed
         run: |
