@@ -17,19 +17,17 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v1
         with:
           card: stats
-          options: 'username=MouadShl&show_icons=true'
+          options: 'username=MouadShl&show_icons=true&theme=tokyonight'
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fail_on_error: true
+          token: ${{ secrets.STATS_TOKEN }}
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: 'username=MouadShl&layout=compact&langs_count=8'
+          options: 'username=MouadShl&layout=compact&langs_count=8&theme=tokyonight'
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fail_on_error: true
+          token: ${{ secrets.STATS_TOKEN }}
 
       - name: Commit and push if changed
         run: |
