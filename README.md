@@ -158,7 +158,7 @@ Open to all data roles - **Data Scientist** - **Data Analyst** - **ML Engineer**
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,linux,git,github,vscode" />
 
-<br/><br/>
+<br/><br/> 
 
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 <img src="https://img.shields.io/badge/Star%20Schema-336791?style=for-the-badge&logoColor=white"/>
