@@ -11,10 +11,10 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
       - name: Generate stats card
-        uses: stats-organization/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: 'username=MouadShl&show_icons=true&theme=tokyonight'
@@ -22,7 +22,7 @@ jobs:
           token: ${{ secrets.STATS_TOKEN }}
 
       - name: Generate top languages card
-        uses: stats-organization/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: 'username=MouadShl&layout=compact&langs_count=8&theme=tokyonight'
