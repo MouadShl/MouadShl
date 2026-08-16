@@ -108,10 +108,12 @@ Open to all data roles - **Data Scientist** - **Data Analyst** - **ML Engineer**
 
 ### Languages & Data
 
-<img src="https://skillicons.dev/icons?i=python,r,matlab,java,c,js,php" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cs,js,php" />
 
 <br/><br/>
 
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -279,12 +281,11 @@ open_to:
 
 ---
 
-## 🤝 Let's Build Something
+## 🤝 Let's Connect
 
 <div align="center">
 
-> *"The best data work happens through collaboration.*
-> *If you are building something meaningful with data, AI, or ML - let us connect."*
+I am open to full-time CDI opportunities, technical collaborations, and meaningful Data and AI projects.
 
 <br/>
 
@@ -303,7 +304,7 @@ open_to:
 
 <br/><br/>
 
-**Available for - Data Scientist - Data Analyst - ML Engineer - AI Engineer - Research Collaborations**
+### "Turning data into decisions, and decisions into impact."
 
 <br/>
 
