@@ -41,7 +41,7 @@ class MouadSouhal:
     current_status  = "Open to full-time CDI opportunities"
 
     experience = (
-            "Completed a Data Science & NLP engineering internship "
+            "Completed a 6-month Data Science & NLP engineering internship "
             "at Ziwig Morocco"
     )
 
