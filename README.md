@@ -35,32 +35,45 @@
 class MouadSouhal:
 
     name            = "Mouad Souhal"
-    role            = "Data Science Engineering Graduate"
+    role            = "Data Science Engineer"
     location        = "Rabat, Morocco 🇲🇦"
-    education       = "Data Science Engineering @ Sup MTI Rabat (2026)"
-    current_status  = "Open to Data Scientist / ML Engineer / Data Analyst roles"
+    education       = "Data Science Engineering Sup MTI Rabat (2026)"
+    current_status  = "Open to full-time CDI opportunities"
+
+    experience = (
+            "Completed a Data Science & NLP engineering internship "
+            "at Ziwig Morocco"
+    )
 
     identity        = [
         "Data Scientist",
         "Machine Learning Engineer",
         "Data Analyst",
-        "AI Builder",
+        "AI Builder"
     ]
 
     interests       = [
+        "Data Science",
+        "Machine Learning",
+        "Deep Learning",
+        "Machine Learning",
+        "AI",
         "Natural Language Processing",
-        "Machine Learning and Deep Learning",
-        "Business Intelligence and Analytics",
-        "Data Engineering and Pipeline Design",
-        "AI-powered Product Development",
+        "Data Engineering",
+        "Business Intelligence",
+        "NLP",
+        "MLOps",
+        "Data Analytics",
+        "Data Engineering"
     ]
+
 
     open_to         = [
         "Data Scientist roles",
-        "ML / AI Engineer positions",
-        "Data Analyst opportunities",
+        "ML/AI Engineer roles",
+        "Data Analyst roles",
         "Research and innovation projects",
-        "Technical collaborations",
+        "Technical collaborations"
     ]
 
     mindset         = "Data is everywhere. Intelligence is built deliberately."
