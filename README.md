@@ -56,15 +56,13 @@ class MouadSouhal:
         "Data Science",
         "Machine Learning",
         "Deep Learning",
-        "Machine Learning",
         "AI",
         "Natural Language Processing",
         "Data Engineering",
         "Business Intelligence",
         "NLP",
         "MLOps",
-        "Data Analytics",
-        "Data Engineering"
+        "Data Analytics"
     ]
 
 
